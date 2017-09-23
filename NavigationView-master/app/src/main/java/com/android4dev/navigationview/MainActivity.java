@@ -69,7 +69,11 @@ public class MainActivity extends AppCompatActivity {
                     // For rest of the options we just show a toast on click
 
                     case R.id.starred:
-                        Toast.makeText(getApplicationContext(),"Stared Selected",Toast.LENGTH_SHORT).show();
+                        Toast.makeText(getApplicationContext(),"Inbox Selected",Toast.LENGTH_SHORT).show();
+                        contactFragment contacts = new contactFragment();
+                        android.support.v4.app.FragmentTransaction fragmentTransaction2 = getSupportFragmentManager().beginTransaction();
+                        fragmentTransaction2.replace(R.id.frame,contacts);
+                        fragmentTransaction2.commit();
                         return true;
                     case R.id.sent_mail:
                         Toast.makeText(getApplicationContext(),"Send Selected",Toast.LENGTH_SHORT).show();
