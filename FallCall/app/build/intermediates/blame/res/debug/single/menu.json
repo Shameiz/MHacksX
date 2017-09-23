@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/amin/AndroidStudioProjects/FallCall/app/build/intermediates/res/merged/debug/menu/activity_main_drawer.xml",
+        "source": "/Users/amin/AndroidStudioProjects/FallCall/app/src/main/res/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "/Users/amin/AndroidStudioProjects/FallCall/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/amin/AndroidStudioProjects/FallCall/app/src/main/res/menu/main.xml"
+    }
+]

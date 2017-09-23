@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/amin/AndroidStudioProjects/FallCall/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/amin/.android/build-cache/99d004fe02b8214843e8d8751a137215ebf36e7f/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/amin/AndroidStudioProjects/FallCall/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/amin/.android/build-cache/ef7192cd138883d438012116c40352df07c94a72/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/amin/AndroidStudioProjects/FallCall/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/amin/.android/build-cache/99d004fe02b8214843e8d8751a137215ebf36e7f/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/amin/AndroidStudioProjects/FallCall/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/amin/.android/build-cache/99d004fe02b8214843e8d8751a137215ebf36e7f/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/amin/AndroidStudioProjects/FallCall/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/amin/.android/build-cache/99d004fe02b8214843e8d8751a137215ebf36e7f/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/amin/AndroidStudioProjects/FallCall/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/amin/.android/build-cache/ef7192cd138883d438012116c40352df07c94a72/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/amin/AndroidStudioProjects/FallCall/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/amin/.android/build-cache/99d004fe02b8214843e8d8751a137215ebf36e7f/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/amin/AndroidStudioProjects/FallCall/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/amin/.android/build-cache/99d004fe02b8214843e8d8751a137215ebf36e7f/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/amin/AndroidStudioProjects/FallCall/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/amin/.android/build-cache/99d004fe02b8214843e8d8751a137215ebf36e7f/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/amin/AndroidStudioProjects/FallCall/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/amin/.android/build-cache/ef7192cd138883d438012116c40352df07c94a72/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/amin/AndroidStudioProjects/FallCall/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/amin/.android/build-cache/ef7192cd138883d438012116c40352df07c94a72/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/amin/AndroidStudioProjects/FallCall/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/amin/.android/build-cache/99d004fe02b8214843e8d8751a137215ebf36e7f/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/amin/AndroidStudioProjects/FallCall/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/amin/.android/build-cache/99d004fe02b8214843e8d8751a137215ebf36e7f/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/amin/AndroidStudioProjects/FallCall/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/amin/.android/build-cache/99d004fe02b8214843e8d8751a137215ebf36e7f/output/res/anim/abc_slide_in_top.xml"
+    }
+]

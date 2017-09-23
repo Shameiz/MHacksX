@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/amin/AndroidStudioProjects/FallCall/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/amin/.android/build-cache/ef7192cd138883d438012116c40352df07c94a72/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/amin/AndroidStudioProjects/FallCall/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_camera.xml",
+        "source": "/Users/amin/AndroidStudioProjects/FallCall/app/src/main/res/drawable-v21/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/Users/amin/AndroidStudioProjects/FallCall/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_manage.xml",
+        "source": "/Users/amin/AndroidStudioProjects/FallCall/app/src/main/res/drawable-v21/ic_menu_manage.xml"
+    },
+    {
+        "merged": "/Users/amin/AndroidStudioProjects/FallCall/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/amin/.android/build-cache/99d004fe02b8214843e8d8751a137215ebf36e7f/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/amin/AndroidStudioProjects/FallCall/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/amin/.android/build-cache/99d004fe02b8214843e8d8751a137215ebf36e7f/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/amin/AndroidStudioProjects/FallCall/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_send.xml",
+        "source": "/Users/amin/AndroidStudioProjects/FallCall/app/src/main/res/drawable-v21/ic_menu_send.xml"
+    },
+    {
+        "merged": "/Users/amin/AndroidStudioProjects/FallCall/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/amin/.android/build-cache/99d004fe02b8214843e8d8751a137215ebf36e7f/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/amin/AndroidStudioProjects/FallCall/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/amin/.android/build-cache/ef7192cd138883d438012116c40352df07c94a72/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/amin/AndroidStudioProjects/FallCall/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/amin/.android/build-cache/ef7192cd138883d438012116c40352df07c94a72/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/amin/AndroidStudioProjects/FallCall/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/amin/.android/build-cache/99d004fe02b8214843e8d8751a137215ebf36e7f/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/amin/AndroidStudioProjects/FallCall/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/amin/.android/build-cache/ef7192cd138883d438012116c40352df07c94a72/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/amin/AndroidStudioProjects/FallCall/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_share.xml",
+        "source": "/Users/amin/AndroidStudioProjects/FallCall/app/src/main/res/drawable-v21/ic_menu_share.xml"
+    },
+    {
+        "merged": "/Users/amin/AndroidStudioProjects/FallCall/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_gallery.xml",
+        "source": "/Users/amin/AndroidStudioProjects/FallCall/app/src/main/res/drawable-v21/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "/Users/amin/AndroidStudioProjects/FallCall/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_slideshow.xml",
+        "source": "/Users/amin/AndroidStudioProjects/FallCall/app/src/main/res/drawable-v21/ic_menu_slideshow.xml"
+    }
+]
