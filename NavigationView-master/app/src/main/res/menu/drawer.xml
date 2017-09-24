@@ -7,7 +7,7 @@
             android:id="@+id/inbox"
             android:checked="false"
             android:icon="@drawable/ic_inbox_black"
-            android:title="@string/inbox_string" />
+            android:title="Today" />
 
         <item
             android:id="@+id/starred"

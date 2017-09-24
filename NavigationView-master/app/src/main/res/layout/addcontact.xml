@@ -34,12 +34,27 @@
         android:textColor="#000000"
         android:textSize="28sp" />
 
+
+
+    <EditText
+        android:id="@+id/editman"
+        android:background="@android:color/background_dark"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:enabled="false"
+        android:layout_below="@+id/textView" />
+
     <ListView
         android:id="@+id/mobile_list"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/textView"
-        android:fadingEdge="vertical">
+        android:fadingEdge="vertical"
+        android:background="@android:color/white">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/texto"/>
     </ListView>
 
 </RelativeLayout>
