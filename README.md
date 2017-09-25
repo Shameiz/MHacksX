@@ -35,3 +35,4 @@ The "Internet of Things" and safety are what drove us to build LertBike this wee
 In conclusion, LertBike is on its way to becoming a fantastic interconnected system of sensors, image recognition software, and alert system. We hope to increase bike safety as much as a helmet!
 
 It's not just a bike, it's a LertBike. LertBike.com
+Devpost: https://devpost.com/software/lert-bike
